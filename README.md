@@ -1,7 +1,7 @@
 <p align="center">
     <img src="metrics.terminal.svg"> 
     <img src="metrics.plugin.leetcode.svg">
-    <img src="metrics.plugin.isocalendar.fullyear.svg">
+    <img src="metrics.plugin.skyline.svg">
 </p>
 
 <div align="center">
