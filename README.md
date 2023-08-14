@@ -1,10 +1,7 @@
 <p align="center">
-    <img src="/metrics.terminal.svg" alt="Metrics">
-    
+    <img src="/metrics.terminal.svg" alt="Metrics"> 
     <img src="/metrics.plugin.leetcode.svg" alt="Metrics">
-    
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-
 </p>
 
 <div align="center">
