@@ -22,6 +22,15 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode_user: kirill-ksm@yandex.ru
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+    
+      - uses: lowlighter/metrics@latest
+        with:
           template: terminal
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
