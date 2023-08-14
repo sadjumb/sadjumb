@@ -1,3 +1,1 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
