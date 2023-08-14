@@ -1,3 +1,5 @@
-<picture>
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</picture>
+<centre>
+  <picture>
+    <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+  </picture>
+<centre>
