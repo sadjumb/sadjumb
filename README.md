@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&type=waving)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=auto&height=300&section=header&text=Hello%World)
 <p align="center">
     <img src="metrics.terminal.svg"> 
     <img src="metrics.plugin.leetcode.svg">
